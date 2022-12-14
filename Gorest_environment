@@ -1,0 +1,21 @@
+{
+	"id": "43c76274-3125-4efb-91af-5124acfa4a48",
+	"name": "Gorest",
+	"values": [
+		{
+			"key": "token",
+			"value": "0b00f3747ddbfa804815cec907da690ac5ef699fffebfaa7a7f9e4b56f66030a",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-12-14T23:34:52.947Z",
+	"_postman_exported_using": "Postman/10.5.8"
+}

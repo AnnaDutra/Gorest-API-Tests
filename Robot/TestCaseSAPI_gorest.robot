@@ -7,6 +7,7 @@ Suite Setup     Conectar a minha API
 Users
     Cadastrar usuário   
     Requisitar usuário 
+    Editar email do usuario para "joana100@email.com"
     Deletar usuário
 
 

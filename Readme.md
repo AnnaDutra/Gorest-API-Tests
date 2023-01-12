@@ -1,6 +1,6 @@
 Automação de testes da API [GoRest](https://gorest.co.in/) nos endpoints do CRUD de usuários.
 
-Plano de testes
+## Plano de testes
 
 | Funcionalidades | Comportamento esperado | Verificações
 |---|---|---|

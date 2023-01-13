@@ -4,7 +4,7 @@ Resource        Resourse_API.robot
 Suite Setup     Conectar a minha API
 
 *** Test Cases ***
-Users
+Crud de Usuários
     Cadastrar usuário   
     Requisitar usuário 
     Editar email do usuario para "joana100@email.com"
